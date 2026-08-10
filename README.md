@@ -208,6 +208,6 @@ MIT License — free to use, modify, and distribute.
 
 ---
 
-**Built with ❤️ by [Bob Tong](https://kuajingbase.com/en/author) · [KuajingBase 跨境基地](https://kuajingbase.com)**
+**Built with ❤️ by [Bob](https://kuajingbase.com/en/author) · [KuajingBase 跨境基地](https://kuajingbase.com)**
 
 *A practical resource hub for cross-border e-commerce sellers — store setup, payment solutions, hosting reviews, and growth strategies.*
