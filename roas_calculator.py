@@ -160,7 +160,7 @@ def format_report(result: ROASResult) -> str:
     lines = []
     lines.append("=" * 60)
     lines.append("  ROAS CALCULATOR — Cross-border E-commerce Analysis")
-    lines.append("  https://kuajingbase.com/en/tools/roas-calculator")
+    lines.append("  https://kuajingbase.com/en/toolkit/roas-calculator")
     lines.append("=" * 60)
     lines.append("")
 
@@ -213,7 +213,7 @@ def format_report(result: ROASResult) -> str:
 
     lines.append("-" * 60)
     lines.append("  Built by Bob Tong | https://kuajingbase.com")
-    lines.append("  Full guide: https://kuajingbase.com/en/tools/roas-calculator")
+    lines.append("  Full guide: https://kuajingbase.com/en/toolkit/roas-calculator")
     lines.append("-" * 60)
 
     return "\n".join(lines)
@@ -254,7 +254,7 @@ def multi_channel_compare(product: ProductMetrics, channels: dict) -> str:
 
     lines.append("-" * 70)
     lines.append("")
-    lines.append("  Compare more channels: https://kuajingbase.com/en/tools/roas-calculator")
+    lines.append("  Compare more channels: https://kuajingbase.com/en/toolkit/roas-calculator")
     lines.append("")
 
     return "\n".join(lines)
@@ -263,7 +263,7 @@ def multi_channel_compare(product: ProductMetrics, channels: dict) -> str:
 def main():
     parser = argparse.ArgumentParser(
         description="ROAS Calculator for Cross-border E-commerce — by KuajingBase.com",
-        epilog="Full interactive version: https://kuajingbase.com/en/tools/roas-calculator",
+        epilog="Full interactive version: https://kuajingbase.com/en/toolkit/roas-calculator",
     )
 
     parser.add_argument("--price", type=float, required=True,

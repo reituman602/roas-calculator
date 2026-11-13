@@ -2,7 +2,7 @@
 
 A free, open-source command-line tool to calculate **Return on Ad Spend (ROAS)**, break-even CPA, profit margins, and multi-channel ad budget allocation — built specifically for **cross-border e-commerce sellers**.
 
-> 🌐 **Prefer a visual calculator?** Use the free online version at [kuajingbase.com/en/tools/roas-calculator](https://kuajingbase.com/en/tools/roas-calculator)
+> 🌐 **Prefer a visual calculator?** Use the free online version at [kuajingbase.com/en/toolkit/roas-calculator](https://kuajingbase.com/en/toolkit/roas-calculator)
 
 ---
 
@@ -62,7 +62,7 @@ python roas_calculator.py --price 49.99 --cogs 12.00 --json
 ```
 ============================================================
   ROAS CALCULATOR — Cross-border E-commerce Analysis
-  https://kuajingbase.com/en/tools/roas-calculator
+  https://kuajingbase.com/en/toolkit/roas-calculator
 ============================================================
 
 📦 PRODUCT ECONOMICS
@@ -111,7 +111,7 @@ TikTok Ads      $0.40   1.0%   $40.00   1.2x    $-13.07 ❌
 Pinterest Ads   $0.60   2.0%   $30.00   1.7x     $-0.46 ❌
 ```
 
-> 📖 **Deep dive into ad strategies:** [TikTok Ads Guide for Cross-border Stores](https://kuajingbase.com/en/articles) | [Facebook Ads vs TikTok Ads](https://kuajingbase.com/en/articles)
+> 📖 **Deep dive into ad strategies:** [TikTok Ads Strategy & Setup 2026](https://kuajingbase.com/en/articles/gtc6f7iy-tiktok-ads-strategy-setup-2026-the-complete-guide-for-e) | [How to Drive Traffic with TikTok](https://kuajingbase.com/en/articles/m3h5f1tf-how-to-drive-traffic-to-your-independent-website-with)
 
 ---
 
@@ -190,11 +190,11 @@ python roas_calculator.py --price 59.99 --cogs 15.00 --shipping 6.00 \
 
 ## Related Resources
 
-- 🌐 [Online ROAS Calculator](https://kuajingbase.com/en/tools/roas-calculator) — Interactive web version with charts
+- 🌐 [Online ROAS Calculator](https://kuajingbase.com/en/toolkit/roas-calculator) — Interactive web version with charts
 - 💳 [Cross-border Payment Guide](https://kuajingbase.com/en/payment) — Compare Stripe, Airwallex, Wise, Payoneer fees
 - 🏪 [Build Your First Store](https://kuajingbase.com/en/build-store) — Step-by-step from zero to first sale
 - 🌐 [Best Hosting for E-commerce](https://kuajingbase.com/en/hosting) — Cloudways, VPS, and shared hosting compared
-- 🛠️ [70+ Cross-border Tools Directory](https://kuajingbase.com/en/listings) — Every tool tested with real data
+- 🛠️ [KuajingBase Cross-Border Toolkit](https://kuajingbase.com/en/toolkit) — 38-in-1 free tools suite, tested with real data
 
 ---
 
